@@ -1,0 +1,78 @@
+﻿  raudio.c
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(130,53): warning C4244: "=": konwersja z "float" do "short", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(143,53): warning C4244: "=": konwersja z "float" do "char", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(242,1): warning C4005: "DEBUG": ponowna definicja makra
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\raudio.c : message : zobacz poprzednią definicję „DEBUG”
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1238,47): warning C4244: "=": konwersja z "uint16_t" do "uint8_t", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1254,28): warning C4244: "inicjowanie": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1256,33): warning C4244: "inicjowanie": konwersja z "float" do "int8_t", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1417,43): warning C4244: "=": konwersja z "uint32_t" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1424,53): warning C4244: "=": konwersja z "uint32_t" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1426,43): warning C4244: "=": konwersja z "uint32_t" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1437,43): warning C4244: "=": konwersja z "uint32_t" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1464,41): warning C4244: "funkcja": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1824,41): warning C4244: "funkcja": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1933,31): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(1990,33): warning C4244: "=": konwersja z "float" do "uint32_t", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(2029,45): warning C4244: "=": konwersja z "uint32_t" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(2162,21): warning C4244: "+=": konwersja z "float" do "uint64_t", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\jar_xm.h(2322,38): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  rcore.c
+  rglfw.c
+  rmodels.c
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(225,56): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(226,60): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(294,22): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(574,23): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(575,29): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(583,23): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(584,25): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(608,20): warning C4244: "funkcja": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(599,21): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(600,25): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(616,29): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(625,29): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(635,29): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(636,27): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(658,44): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(660,44): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(661,21): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(667,16): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(668,16): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(669,16): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(650,37): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(651,31): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(652,23): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(653,23): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(654,23): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(655,23): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(727,28): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(728,28): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(752,33): warning C4244: "funkcja": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(726,38): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(835,35): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(836,35): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(837,35): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(883,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(931,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1031,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1362,25): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1364,58): warning C4244: "funkcja": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1366,58): warning C4244: "funkcja": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1368,58): warning C4244: "funkcja": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1525,38): warning C4305: "funkcja": obcięcie z "double" do "float"
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1542,20): warning C4244: "*=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1543,20): warning C4244: "*=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1544,20): warning C4244: "*=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1546,39): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1830,33): warning C4244: "funkcja": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1830,49): warning C4244: "funkcja": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1830,65): warning C4244: "funkcja": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\par_shapes.h(1799,30): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+  rshapes.c
+  rtext.c
+  rtextures.c
+C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\raylib\src\external\qoi.h(662,20): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  utils.c
+  Generowanie kodu...
+  raylib.vcxproj -> C:\Users\kubat\Documents\GitHub\Checkers_in_C_Project\_bin\Debug\raylib.lib
